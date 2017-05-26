@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libbsp_led.a  CMakeFiles/bsp_led.dir/led.c.o
+/usr/bin/ranlib ../../../lib/libbsp_led.a
