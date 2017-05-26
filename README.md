@@ -1,6 +1,6 @@
-# STM32F7 FreeRTOS blinky on linux
+# STM32F4 FreeRTOS blinky on linux
 
-### By wangxian
+### By Jecy
 ---
 **Note:** Use the GNU/Make with arm-none-eabi-gcc and cmake tools.
 
